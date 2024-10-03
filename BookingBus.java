@@ -17,7 +17,6 @@ public class BookingBus {
     BookingBus(){
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter your name");
-        System.out.println("helo");
         Name = sc.nextLine();
         System.out.println("Bus no");
         busNo = sc.nextInt();
